@@ -1,7 +1,7 @@
 name: This That We Have Now
 favicon: null
-layout_spectrum: 0.6145284175872803
-typography_spectrum: 0.8144934680312872
+layout_spectrum: 0.00331
+typography_spectrum: 0.94289
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#4e2c00'
+    - '#f0d4be'
+    - '#4d4d59'
+    - '#a5978e'
+    - '#7f4e01'
   brandStrength: 0.3091358330566436
   lightness: 0.798452774528414
   saturation: 0.07823226926848292
